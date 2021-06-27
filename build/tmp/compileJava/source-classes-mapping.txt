@@ -1,0 +1,16 @@
+config/AppInit.java
+ config.AppInit
+controller/HomeController.java
+ controller.HomeController
+model/Smartphone.java
+ model.Smartphone
+repository/ISmartphoneRepository.java
+ repository.ISmartphoneRepository
+service/ISmartphoneService.java
+ service.ISmartphoneService
+service/SmartphoneService.java
+ service.SmartphoneService
+config/AppConfig.java
+ config.AppConfig
+controller/SmartphoneController.java
+ controller.SmartphoneController
